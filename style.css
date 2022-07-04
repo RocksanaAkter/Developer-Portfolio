@@ -14,6 +14,7 @@ body {
 
 section {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -39,5 +40,13 @@ section {
 .top-banner {
     background-image: url(developer-portfolio-master/images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+
+.dreamBig {
+    background-image: url(developer-portfolio-master/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 
 }
